@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nirgun Subedi</h1>
+<h1 align="center">👋 Hey there, I'm Nirgun Subedi!</h1>
 <h3 align="center">Passionate Developer | Open Source Enthusiast</h3>
 
 - working on [Abroad Institute](https://abroadinst.com/)
+
+- Passionate about building scalable software and enhancing user experiences.
+
+- Ask me about full-stack development, system design, and the best practices for maintaining large codebases.
  
-- Get in Touch **subedinirgun7@gmail.com** 
+- Reach me at **subedinirgun7@gmail.com** 
 
 
 <h3 align="center">Connect with me:</h3>
