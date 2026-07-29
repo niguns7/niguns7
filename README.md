@@ -6,7 +6,7 @@ Senior Full-Stack Engineer building AI-native SaaS products and scalable backend
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a Full-Stack Engineer with **5+ years of experience** designing and shipping production-ready SaaS applications, AI-powered automation platforms, and multi-tenant systems.
 
@@ -14,14 +14,13 @@ I enjoy solving complex engineering problems across backend architecture, distri
 
 ### Currently Working On
 
-- 🚀 Building **CognixBiz**, a multi-tenant SaaS ecosystem
-- 🤖 Developing **Recruit OS**, an AI-powered recruitment automation platform
-- ⚡ Designing scalable backend architectures using **NestJS**, **PostgreSQL**, and **Redis**
-- 🧠 Building AI applications with **LLMs**, **RAG**, and workflow orchestration
+- Building **CognixBiz**, a multi-tenant SaaS ecosystem
+- Developing **Recruit OS**, an AI-powered recruitment automation platform
+- Building AI applications with **LLMs**, **RAG**, and workflow orchestration
 
 ---
 
-## 💼 Expertise
+## Expertise
 
 - AI-native SaaS Development
 - Multi-tenant System Architecture
@@ -33,74 +32,8 @@ I enjoy solving complex engineering problems across backend architecture, distri
 - System Design
 - Technical Leadership
 
----
 
-## 🛠 Tech Stack
-
-### Languages
-
-TypeScript • JavaScript • Python • SQL
-
-### Frontend
-
-React • Next.js • Redux • Zustand • Tailwind CSS
-
-### Backend
-
-Node.js • NestJS • FastAPI • REST APIs • WebSockets
-
-### Databases
-
-PostgreSQL • MongoDB • Redis • Vector Databases
-
-### AI
-
-OpenAI API • Anthropic Claude API • LangChain • Prompt Engineering • RAG • AI Agents
-
-### Cloud & DevOps
-
-Docker • AWS • Linux • Git • GitHub Actions • CI/CD
-
----
-
-## 📌 Featured Projects
-
-### 🤖 Recruit OS
-
-AI-powered recruitment automation platform featuring:
-
-- AI Voice Calls
-- RAG Knowledge Base
-- Workflow Automation
-- Intelligent Candidate Processing
-
----
-
-### 🏢 TaskMesh
-
-Multi-tenant project management, CRM, and HR platform.
-
-- NestJS
-- PostgreSQL
-- RBAC
-- Socket.io
-- Redis
-
----
-
-### ⚡ Fuse
-
-AI workflow automation platform integrating LLMs, prompt orchestration, and agent-based execution.
-
----
-
-### 📸 Fotosfolio
-
-Cloud SaaS platform for photographers with secure media management and client collaboration.
-
----
-
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Agentic AI Systems
 - Distributed Architectures
