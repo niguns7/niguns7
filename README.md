@@ -12,35 +12,6 @@ I'm a Full-Stack Engineer with **5+ years of experience** designing and shipping
 
 I enjoy solving complex engineering problems across backend architecture, distributed systems, and modern AI workflows.
 
-### Currently Working On
-
-- Building **CognixBiz**, a multi-tenant SaaS ecosystem
-- Developing **Recruit OS**, an AI-powered recruitment automation platform
-- Building AI applications with **LLMs**, **RAG**, and workflow orchestration
-
----
-
-## Expertise
-
-- AI-native SaaS Development
-- Multi-tenant System Architecture
-- Backend Architecture & API Design
-- Workflow Automation
-- RAG Pipelines
-- Agentic AI Applications
-- Full-Stack Product Development
-- System Design
-- Technical Leadership
-
-
-## Currently Exploring
-
-- Agentic AI Systems
-- Distributed Architectures
-- Event-Driven Systems
-- AI Workflow Automation
-- High-Performance Backend Engineering
-
 ---
 
 ## 📫 Connect With Me
