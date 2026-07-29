@@ -14,9 +14,9 @@ I enjoy solving complex engineering problems across backend architecture, distri
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-📧 **subedinirgun7@gmail.com**
+**subedinirgun7@gmail.com**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nirgun-sachidananda-subedi-11815a283">
