@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nirgun Subedi</h1>
 
 <h3 align="center">
-Senior Full-Stack Engineer building AI-native SaaS products and scalable backend systems.
+ Full-Stack Engineer building AI-native SaaS products and scalable backend systems.
 </h3>
 
 ---
 
 ##  About Me
 
-I'm a Full-Stack Engineer with **5+ years of experience** designing and shipping production-ready SaaS applications, AI-powered automation platforms, and multi-tenant systems.
+I'm a Full-Stack Engineer with **4+ years of experience** designing and shipping production-ready SaaS applications, AI-powered automation platforms, and multi-tenant systems.
 
 I enjoy solving complex engineering problems across backend architecture, distributed systems, and modern AI workflows.
 
